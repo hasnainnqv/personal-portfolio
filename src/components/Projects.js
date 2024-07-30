@@ -152,7 +152,7 @@ export const Projects = () => {
                     </Row>
                     </Tab.Pane>
                     <Tab.Pane eventKey="third">
-                     <p>Email me at hasnainn@gmail.com</p>
+                     <p>Email me at hasnainn34@gmail.com</p>
                     </Tab.Pane>
                   </Tab.Content>
 
