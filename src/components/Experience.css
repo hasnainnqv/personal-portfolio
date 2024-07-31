@@ -62,3 +62,7 @@
   opacity: 0.3;
   border-radius: 0 0 0 50%;
 }
+
+.white-text {
+  color: rgb(236, 232, 232);
+}

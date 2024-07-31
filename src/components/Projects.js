@@ -98,7 +98,7 @@ export const Projects = () => {
     },
   
   ];
-
+ 
   return (
     <section className="project" id="projects">
       <Container>
@@ -152,7 +152,9 @@ export const Projects = () => {
                     </Row>
                     </Tab.Pane>
                     <Tab.Pane eventKey="third">
-                     <p>Email me at hasnainn34@gmail.com</p>
+                     <p>Personal Email: hasnainn34@gmail.com</p>
+                     <p>Cloud Email: Naqvi4408094@cloud.neduet.edu.pk</p>
+                     <p>Contact Number: 0335-9553593</p>                                                    
                     </Tab.Pane>
                   </Tab.Content>
 
