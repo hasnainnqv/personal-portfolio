@@ -20,7 +20,7 @@ export const Footer = () => {
                 <a href="https://www.upwork.com/freelancers/~017e3cf041247ec5fc"><img src={navIcon2} alt="" /></a>
                 <a href="https://www.fiverr.com/s/42XdGQk"><img src={navIcon3} alt="" /></a>
             </div>
-            <p>Copyright 2022. All Rights Reserved</p>
+            <p>Copyright 2024. All Rights Reserved</p>
           </Col>
         </Row>
       </Container>

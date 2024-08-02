@@ -1,7 +1,9 @@
 .experience {
   position: relative;
   padding: 60px 20px;
-  background-color: #26313b;
+  /* background-color: #13181d;
+   */
+   background-image: url('../assets/img/1325275.png');
   text-align: center;
 }
 
@@ -16,7 +18,7 @@
 .experience-item {
   margin-bottom: 30px;
   padding: 20px;
-  background-color: #fff;
+  background-color: #c7bdbd;
   border-radius: 15px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   transition: transform 0.3s ease;
@@ -66,3 +68,6 @@
 .white-text {
   color: rgb(236, 232, 232);
 }
+
+
+
